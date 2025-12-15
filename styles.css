@@ -35,7 +35,7 @@ body {
 
 .foto {
   display: flex;
-proyecto-figma-2  flex-direction: column;
+  flex-direction: column;
   justify-content: end;
   margin-right: 100px;
 }
